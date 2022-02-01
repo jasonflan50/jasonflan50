@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/vZHx7YB.jpg"/>
-
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">I'm a passionate frontend developer</h3>
 
