@@ -1,7 +1,7 @@
 <img src="./banner.jpg" />
 
-<h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">I'm a passionate frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Jason</h1>
+<h3 align="left">I'm a passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
